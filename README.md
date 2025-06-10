@@ -1,2 +1,4 @@
 # desafios-de-projeto-DIO
-Repositório dedicado a desafios de projeto da DIO.
+Repositório dedicado a desafios de projetos da DIO.
+
+- [Relatório de Redução de Custos com AWS](AWS/Relatorio-Reducao-Custos/relatorio.md)
